@@ -14,7 +14,7 @@
         "build": "npm run transpile && npm run package && npm run minify"
 
     },
-    "private": true,
+    "private": false,
     "dependencies": {
         "@angular/animations": "^5.2.7",
         "@angular/cdk": "^5.2.3",
